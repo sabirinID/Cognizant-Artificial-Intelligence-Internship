@@ -14,3 +14,4 @@ Advise one of Cognizant’s clients on a supply chain issue by applying knowledg
 1. Seaborn documentation https://seaborn.pydata.org/
 2. Matplotlib documentation https://matplotlib.org/
 3. Pandas documentation https://pandas.pydata.org/
+4. Scikit-learn documentation https://scikit-learn.org/stable/
